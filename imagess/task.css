@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.footer{
+    margin-top: 33vh;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+    padding: 5%;
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+}
